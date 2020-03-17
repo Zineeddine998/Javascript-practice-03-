@@ -1,0 +1,25 @@
+.newcolor{
+    background-color: #0B0424;
+}
+.bluecolor{
+    color: blue;
+}
+#bluecolor{
+    color: blue;
+}
+
+h1 h5 {
+    color: blue;
+}
+a {
+    color: aliceblue;
+    text-decoration: aliceblue;
+}
+#img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    }
+    html {
+        scroll-behavior: smooth;
+      }
